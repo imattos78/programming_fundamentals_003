@@ -159,11 +159,11 @@ Your tests should all still pass at this point.
 
 1. If a book is an object, what is its encapsulated data?
 
-ANSWER: Methods  
+ANSWER: In our book object the properties and Methods are the encapsulated data.
 
 2. Why do we create a new Book for every single test in `Book.test.js`?
 
-ANSWER: To generate a new instance of the Book class
+ANSWER: To generate a new instance of the Book class and be able to pass data throgh Methods to do the tests.
 
 3. What data, of a book's encapsulated data, is changeable?
 
